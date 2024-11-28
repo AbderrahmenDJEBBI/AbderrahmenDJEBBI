@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abderrahmen Djebbi</h1>
 <h3 align="center">A Passionate Data Science Student from Tunisia</h3>
 
-- 🔭 I’m currently a final year Data Science Student 
-- 🤔 I’m looking for end of study internship in the field of Data Science
+- I’m currently a Junior Data Scientist 💻✨
+- 🌟 Looking for opportunities to further develop my skills and contribute to innovative projects in the field of Data Science.
 - 👨‍💻 My projects are available at [https://github.com/AbderrahmenDJEBBI?tab=repositories](https://github.com/AbderrahmenDJEBBI?tab=repositories)
 
 
